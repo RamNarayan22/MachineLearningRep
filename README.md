@@ -1,2 +1,2 @@
 # MachineLearningRep
-I'll be uploading the machine learning models that I've learnt in this repository
+Machine Learing Project that I've learnt will be posted here
